@@ -1,2 +1,2 @@
 # TicTacToe
-TicTacToe Game in Java Swing
+Tic Tac Toe, also known as Noughts and Crosses, is a simple 2-player game played on a 3x3 grid. Each player takes turns placing their symbol (either an X or O) on a square until one player manages to get three in a row, either horizontally, vertically, or diagonally. The game ends in a draw if all squares are filled without a winner. The game is often used as a simple training tool to teach novice players the importance of strategy, board placement, and pattern recognition. It is also commonly used as a leisure and entertainment activity, particularly among young children.
